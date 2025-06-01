@@ -1,0 +1,9 @@
+# Ignore all jpg files
+*.jpg
+*.png
+*.md
+ls0479/notebook-workspace/
+project 6/data/
+ls0479/.DS_Store
+.DS_Store
+
